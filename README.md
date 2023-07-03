@@ -1,3 +1,43 @@
+
+# Simple Social network
+
+Project created in Laravel 9 that registers users for a web page, created to publish some posts with images, description and people subscribed to your user can like, comment or unsubscribe from your channel
+
+
+## Installation
+
+Install my-project with npm and php artisan serve
+
+```bash
+  npm install my-project
+  cd devstagram
+  npm run dev
+```
+```bash
+  cd devstagram
+  php artisan serve
+```
+You will need a MySQL database installation
+Dump20230703.sql
+
+LogIn
+![LogIN](https://raw.githubusercontent.com/luisgarciaio/proj-socialnet-dev/main/Snapshots/LogIn.PNG)
+
+Create post
+![CreatePost](https://raw.githubusercontent.com/luisgarciaio/proj-socialnet-dev/main/Snapshots/create%20post.PNG)
+
+Dashboard
+![Dashboard](https://raw.githubusercontent.com/luisgarciaio/proj-socialnet-dev/main/Snapshots/dashboard.PNG)
+
+Edit profile
+![CreatePost](https://raw.githubusercontent.com/luisgarciaio/proj-socialnet-dev/main/Snapshots/editProfile.PNG)
+
+Register
+![Register](https://raw.githubusercontent.com/luisgarciaio/proj-socialnet-dev/main/Snapshots/register.PNG)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
